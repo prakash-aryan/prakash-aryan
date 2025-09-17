@@ -1,7 +1,7 @@
 # Hey there! I'm Prakash Aryan
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_coding.png" alt="Coding Corgi" width="200"/>
+  <img src="https://github.com/user-attachments/assets/eab380c2-4a14-4eac-9303-6c9674995597" alt="Coding Corgi" width="200"/>
   
   **PhD Student & Research Assistant | AI/ML Engineer | Robotics Researcher**
   
@@ -18,18 +18,29 @@ Working on UAV adaptability in complex environments using AI techniques
 Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/grant/219732)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_robots.png" alt="Robotics Corgi" width="180"/>
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_VR.png" alt="VR Corgi" width="180"/>
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_playing_legos.png" alt="Building Corgi" width="180"/>
+  <img src="https://github.com/user-attachments/assets/e3869e1b-1653-487b-87d4-49a2d1239361" alt="Robotics Corgi" width="180"/>
+  <img src="https://github.com/user-attachments/assets/4a8f3d79-b0ee-45a7-9a42-c1f74173c95a" alt="VR Corgi" width="180"/>
+  <img src="https://github.com/user-attachments/assets/d795ef30-a267-4b0c-9774-890a92be586c" alt="Building Corgi" width="180"/>
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api?username=prakash-aryan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=prakash-aryan&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash-aryan&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
 ## What I'm Reading & Doing
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_cooking.png" alt="Cooking Corgi" width="150"/>
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_meditate.png" alt="Reading Corgi" width="150"/>
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_ukulele.png" alt="Musical Corgi" width="150"/>
-  <img src="https://raw.githubusercontent.com/prakash-aryan/prakash-aryan/main/Corgis/corgi_travel.png" alt="Travel Corgi" width="150"/>
+  <img src="https://github.com/user-attachments/assets/524c5e49-3ee3-43e8-b0df-54d783145434" alt="Cooking Corgi" width="150"/>
+  <img src="https://github.com/user-attachments/assets/5de2854b-3377-438c-a8b6-210d2b14b37c" alt="Reading Corgi" width="150"/>
+  <img src="https://github.com/user-attachments/assets/b3a5511c-b4a4-4348-bc95-f794c630ecf2" alt="Musical Corgi" width="150"/>
+  <img src="https://github.com/user-attachments/assets/fa9e64f0-6d44-4736-9db2-768c1fb6e8d4" alt="Travel Corgi" width="150"/>
 </div>
 
 **Currently Reading:**
@@ -41,7 +52,7 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
 
 **Other Interests:** Cooking, Playing Ukulele, Meditation, Travel
 
-*[Check out all 20+ books I've read →](https://prakasharyan.pages.dev/books)*
+*[Check out all 20+ books I've read →](https://prakasharyan.com/books/)*
 
 ## Philosophy
 
@@ -69,6 +80,11 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
 ### Robotics & AR/VR
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/gazebo-%23FF6600.svg?style=for-the-badge&logo=gazebo&logoColor=white)
+![OpenXR](https://img.shields.io/badge/openxr-%23000000.svg?style=for-the-badge&logo=openxr&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -101,62 +117,14 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Featured Projects
-
-### AI & Machine Learning
-- **[DebateBrawl](https://github.com/prakash-aryan/debatebrawl-app)** - AI-powered debate platform with Genetic Algorithms
-- **[Qwen-Arabic](https://github.com/prakash-aryan/qwen-arabic-project)** - Resource-efficient Arabic language model fine-tuning
-- **[YOLOv11n Fire Detection](https://github.com/prakash-aryan/yolov11n-fire-detection)** - Computer vision for fire detection
-
-### AR/VR & Robotics  
-- **[DepthForge](https://github.com/prakash-aryan/DepthForge)** - Unity AR Foundation real-time plane detection
-- **[Mixed Reality Robotics](https://github.com/prakash-aryan/MrSlam-Nav2)** - Robot simulation in mixed reality
-- **[TurtleBot3 Docker](https://github.com/prakash-aryan/turtlebot3-docker-windows)** - Containerized ROS robotics environment
-
-### Web Development
-- **[Task Manager](https://github.com/prakash-aryan/task-manager-bootstrap)** - Bootstrap-based task management app
-- **[RC4 Cipher App](https://github.com/prakash-aryan/rc4-angular)** - Interactive encryption demonstration
-- **[Course Listing App](https://github.com/prakash-aryan/course-listing-app)** - React + Firebase course management
-
-*[View all 30+ projects →](https://github.com/prakash-aryan?tab=repositories)*
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakash-aryan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-aryan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-aryan&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## Publications & Research Impact
-
-**5 Published Papers** in AI, Software Engineering, and Systems Design  
-**ICST 2025 Tool Competition** participant for Self-Driving Car Testing  
-**Book Chapter** in Advanced Network Technologies and Intelligent Computing  
-
-*[Read my publications →](https://prakasharyan.pages.dev/publications)*
-
-## Current Goals for 2025
-
-- [ ] Complete PhD research milestones
-- [ ] Publish research papers on human-robot collaboration  
-- [ ] Contribute to open-source robotics projects
-- [ ] Build human-robot interaction demos
-- [ ] Read 25+ books (currently at 20+)
-- [ ] Master new cooking techniques
-- [ ] Present at international conferences
-
 ## Fun Facts
 
-- My GitHub avatar is a pixel art corgi because coding should be fun
+- My GitHub avatar is a pixel art corgi because coding should be funnnnnn
 - I maintain detailed book reviews with humorous commentary
 - I build VR/AR applications for robotics research
 - I enjoy cooking and trying new recipes
 - I make robots dance in my spare time (literally!)
-- I've worked across four countries: India, UAE, Switzerland, and remotely
+- I've worked across three countries: India, UAE, Switzerland
 - I play ukulele to relax between coding sessions
 - I practice meditation for better focus during research
 
@@ -164,11 +132,11 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prakasharyan.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prakasharyan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakasharyan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakasharyan25@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/merabro7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_merabro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noahvallable?igsh=ZXY1dHZmNms5b2Z1)
 
 </div>
 
@@ -180,5 +148,5 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
   **Open to collaborations in AI, Robotics, and Research**  
   **Mentoring students in CS, AI/ML, and Research**
   
-  *"The future belongs to those who can build bridges between disciplines, between humans and technology, and between what we know and what we're still discovering."*
+  *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* - Alan Turing
 </div>
