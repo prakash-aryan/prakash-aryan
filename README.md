@@ -27,7 +27,7 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api?username=prakash-aryan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=prakash-aryan&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=prakash-aryan&layout=compact&theme=onedark&langs_count=8&hide=html,jupyter%20notebook" alt="Top Languages" />
 </div>
 
 <div align="center">
