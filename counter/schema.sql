@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS views (id TEXT PRIMARY KEY, count INTEGER NOT NULL);
+INSERT OR IGNORE INTO views (id, count) VALUES ('prakash-aryan', 0);

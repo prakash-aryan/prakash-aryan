@@ -1,0 +1,14 @@
+name = "profile-views"
+main = "index.js"
+compatibility_date = "2026-06-01"
+routes = [{ pattern = "views.prakasharyan.com", custom_domain = true }]
+
+[[rules]]
+type = "Data"
+globs = ["**/*.woff2"]
+fallthrough = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "profile-views"
+database_id = "b5e5ab54-6c37-46e3-8984-c747bfacf069"
