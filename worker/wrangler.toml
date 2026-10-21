@@ -1,7 +1,10 @@
 name = "profile-views"
 main = "index.js"
 compatibility_date = "2026-06-01"
-routes = [{ pattern = "views.prakasharyan.com", custom_domain = true }]
+routes = [
+  { pattern = "views.prakasharyan.com", custom_domain = true },
+  { pattern = "cards.prakasharyan.com", custom_domain = true },
+]
 
 [[rules]]
 type = "Data"

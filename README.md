@@ -26,12 +26,12 @@ Funded by [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="cards/stats.svg" alt="GitHub Stats" />
-  <img width="49%" src="cards/languages.svg" alt="Top Languages" />
+  <img width="49%" src="https://cards.prakasharyan.com/stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://cards.prakasharyan.com/languages.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="98.6%" src="cards/activity.svg" alt="Contribution Activity" />
+  <img width="98.6%" src="https://cards.prakasharyan.com/activity.svg" alt="Contribution Activity" />
 </div>
 
 ## What I'm Reading & Doing
